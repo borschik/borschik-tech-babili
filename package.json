@@ -1,0 +1,28 @@
+{
+  "name": "borschik-tech-babili",
+  "version": "0.1.0",
+  "description": "borschik JS tech with babili as minifier",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-preset-babili": "0.0.10"
+  },
+  "peerDependencies": {
+    "borschik": ">=1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tadatuta/borschik-tech-babili.git"
+  },
+  "keywords": [
+    "borschik",
+    "js",
+    "babili"
+  ],
+  "author": "Vladimir Grinenko <i@tadatuta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tadatuta/borschik-tech-babili/issues"
+  },
+  "homepage": "https://github.com/tadatuta/borschik-tech-babili"
+}
