@@ -1,6 +1,6 @@
 {
   "name": "borschik-tech-babili",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "borschik JS tech with babili as minifier",
   "main": "index.js",
   "dependencies": {
