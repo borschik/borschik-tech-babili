@@ -16,3 +16,9 @@ $ npm install borschik borschik-tech-babili
 ```sh
 $ ./node_modules/.bin/borschik -t babili -i test.js
 ```
+You can provide custom options to `babili` with `--tech-options`
+```
+$ ./node_modules/.bin/borschik -t babili -i test.css --tech-options='{"babili":{"mangle":false}}'
+```
+
+See https://github.com/babel/babili/tree/master/packages/babel-preset-babili#options for available options.
